@@ -1,0 +1,4 @@
+resource "azurerm_resour_group" "rggssss"{
+  name="test_rg2"
+  location="westus"
+}
